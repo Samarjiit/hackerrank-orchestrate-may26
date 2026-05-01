@@ -31,3 +31,5 @@ data/index/
 data/embeddings/
 *.sqlite
 *.db
+.chroma_db/
+code/.chroma_db/
